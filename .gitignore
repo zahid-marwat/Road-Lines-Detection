@@ -1,0 +1,9 @@
+*.mp4
+*.MP4
+*.pt
+__pycache__/
+
+.vscode/settings.json
+Data/
+font/
+API_Keys.py
