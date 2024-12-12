@@ -79,7 +79,6 @@ class BoxAnnotator:
         self,
         scene: np.ndarray,
         detections: Detections,
-        labels: Optional[List[str]] = None,
         skip_label: bool = False,
     ) -> np.ndarray:
 
